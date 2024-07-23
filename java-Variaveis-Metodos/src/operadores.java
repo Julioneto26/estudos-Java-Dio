@@ -21,6 +21,5 @@ public class operadores {
 
         System.out.println(concatenacao);
         
-
     }
 }
