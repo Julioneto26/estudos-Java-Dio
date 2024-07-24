@@ -26,11 +26,13 @@ public class EstruturasCondicionais{
 
                     System.out.println("Obrigado Por escolher Nosso Banco. Tenha um Bom dia!");
                     
+                    return;
                 }
 
-                else {
+                 else {
 
                     System.out.println("Qual o valor do Saque?");
+
 
 
                 }
